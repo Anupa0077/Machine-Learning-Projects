@@ -28,10 +28,10 @@ This project aims to predict diabetes using the Pima Indians Diabetes Dataset. T
 - **Performance Metrics**: 
   - **Accuracy**: 0.80
   **Class 0**: Represents the non-diabetic cases.
-    **Precision**: 0.89
-    **Recall**: 0.79
-    **F1-Score**: 0.84
+     - **Precision**: 0.89
+    - **Recall**: 0.79
+    - **F1-Score**: 0.84
 **Class 1**: Represents the diabetic cases.
-    **Precision**: 0.67
-    **Recall**: 0.81
-    **F1-Score**: 0.74
+    -**Precision**: 0.67
+    -**Recall**: 0.81
+    -**F1-Score**: 0.74
